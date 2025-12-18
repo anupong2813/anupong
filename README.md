@@ -6,8 +6,6 @@
 - 🔵 I'm learning to code in various languages.
 - 💬 How to reach me (anupong.do@ku.th)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
